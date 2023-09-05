@@ -1,0 +1,266 @@
+.npm-logo{
+    margin-left: 200px;
+    
+}
+.npm-logo img{
+    width: 50px;
+    height: 50px;
+}
+.logo img{
+    margin-left: 47%;
+    width: 5%;
+    height: 5%;
+    margin-top: 30px;
+}
+.blocks-description{
+    margin-left: 22%;
+    color: rgb(0, 247, 255);
+    font-size: 35px;
+    margin-top: 30px;
+}
+#navbarSupportedContent{
+    margin-left: 400px;
+}
+.card1{
+    background-color: cornflowerblue;
+    width: 40px;
+    height: 300px;
+    margin-left: 30px;
+}
+.card2{
+    background-color: blue;
+    width: 40px;
+    height: 300px;
+    margin-left: 30px;
+}
+.card3{
+    background-color: black;
+    width: 40px;
+    height: 300px;
+    margin-left: 30px;
+
+}
+.col{
+    width: 50px;
+    height: 300px;
+    gap: 40px;
+    margin-top: 20px;
+}
+.card-title{
+    font-size: 40px;
+    color: aliceblue;
+}
+.card-text{
+    font-size: 20px;
+    color: aliceblue;
+}
+.card-footer{
+    margin-top: 40%;
+}
+.material-symbols-outlined{
+    color: aliceblue;
+    
+}
+.npm-logo1 img{
+    width: 30px;
+    height: 30px;
+}
+.container .row .col .npm-logo1{
+    margin-top: 40px;
+
+}
+.npm-logo1  .material-symbols-outlined{
+    color: black;
+}
+.row{
+    font-size: 20px;
+}
+.col1 img{
+width: 40px;
+height: 50px;
+}
+#image img{
+    width: 300px;
+height: 250px;
+margin-top: 80px;
+}
+#image p{
+    margin-top: 80px;
+}
+#bloc2 {
+    background-color: aqua;
+    height: 700px;
+    width: 1500px;
+}
+.flag{
+    background-color: white;
+    width: 205px;
+    height: 260px;
+    margin-top: 50px;
+    
+    
+}
+.k .flag .material-symbols-outlined{
+    width: 60px;
+    height: 60px;
+    padding-right: 0px;
+    color: black;
+    padding-top: 15px;
+}
+.k .flag .tt{
+    margin-right: 0px ;
+    margin-top: 20px;
+
+}
+.flag .jj{
+    font-size: 12px;
+    margin-top: 20px;
+    font-size: 12px;
+
+}
+
+.k{
+    display: flex;
+    margin-top: 5px;
+}
+
+
+.done{
+    background-color: white;
+    width: 200px;
+    padding-left: 40px;
+    padding-right: 10px;
+    margin-left: 100px;
+    height: 260px;
+    
+}
+.k .done .material-symbols-outlined{
+    color: black;
+    margin-top: 10px;
+    padding-right: 35px;
+}
+.num{
+    padding-right: 35px;
+    margin-top: 40px;
+}
+.oo{
+    padding-right: 35px;
+    font-size: 15px;
+    margin-top: 40px;
+
+}
+.people{
+    background-color: white;
+    width: 220px;
+    height: 260px;
+    padding-left: 40px;
+    padding-right: 10px;
+    margin-top: 50px;
+    
+}
+.people .material-symbols-outlined{
+color: black;
+margin-right: 30px;
+}
+.people .pe{
+    margin-right: 30px;
+    margin-top: 40px;
+}
+.people .pl{
+    font-size: 15px;
+    margin-right: 30px;
+    margin-top: 40px;
+}
+.grou{
+    background-color: white;
+    width: 205px;
+    margin-left: 95px;
+    height: 260px;
+    margin-top: 20px;
+    
+}
+.rrr{
+    display: flex;
+}
+.grou .material-symbols-outlined{
+    color: black;
+}
+.grou .fh{
+    font-size: 25px;
+    margin-top: 40px;
+}
+.grou .hf{
+    margin-top: 40px;
+}
+
+
+.rowt{
+    display: flex;
+    gap: 100px;
+    margin-top: 40px;
+    height: 300px;
+    
+}
+.rowt .colt .card-img-top{
+    height: 300px;
+}
+.rowt .colt .btn btn-primary{
+    margin-bottom: 800px;
+}
+.rowt .colt .card .card-body .card-title{
+    color: black;
+    font-size: 20px;
+}
+.rowt .colt .card .card-body{
+    display: flex;
+    gap: 33px;
+}
+#waa{
+    padding-top: 60px;
+}
+#la{
+    padding-top: 60px; 
+}
+#fa{
+    padding-top: 80px; 
+}
+#fff{
+    padding-top: 150px; 
+}
+.istic .laii{
+    color: black;
+    font-size: 30px;
+    width: 600px;
+    text-align: center;
+    margin-left: 270px;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+.istic .btn btn-primary{
+    
+}
+
+.jm h1{
+    color: aqua;
+    margin-top: 80px;
+}
+
+
+.jm p{
+    margin-top: 40px;
+}
+
+
+
+.mihi {
+    margin-top: 80px;
+    display: flex;
+    margin-left: 90px;
+}
+
+
+
+
+
+
+
